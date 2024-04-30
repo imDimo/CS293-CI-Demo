@@ -4,3 +4,4 @@ Test 3. Will it work after installing the webhook plugin?
 Test 4. How abot after restarting Jenkins?
 Test 5. Disabling github integration plugin.
 Test 6. Implemented changes shown in updated instruction file.
+Test 7. Updated IP.
